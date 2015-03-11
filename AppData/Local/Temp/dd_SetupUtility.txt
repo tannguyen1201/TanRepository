@@ -1,5 +1,0 @@
-[03/03/2015-16:13:44:747] 	INFO:   	Log file path: C:\Users\phuong\AppData\Local\Temp\dd_SetupUtility.txt
-[03/03/2015-16:13:44:747] 	INFO:   	####################################################################################
-[03/03/2015-16:13:44:747] 	INFO:   	**************** SetupUtility Started ****************
-[03/03/2015-16:13:44:747] 	INFO:   	Command Line: SetupUtility.exe /screboot
-[03/03/2015-16:13:44:747] 	INFO:   	**************** SetupUtility Ended ****************
