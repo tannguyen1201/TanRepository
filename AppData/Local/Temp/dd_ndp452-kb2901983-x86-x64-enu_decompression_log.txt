@@ -1,0 +1,17 @@
+[3/3/2015, 16:12:45] === Logging started: 2015/03/03 16:12:45 ===
+[3/3/2015, 16:12:45] Executable: C:\Windows\SoftwareDistribution\Download\Install\ndp452-kb2901983-x86-x64-enu.exe v4.5.51209.34209
+[3/3/2015, 16:12:45] --- logging level: standard ---
+[3/3/2015, 16:12:45] Successfully bound to the ClusApi.dll
+[3/3/2015, 16:12:45] Error 0x80070424: Failed to open the current cluster
+[3/3/2015, 16:12:45] Cluster drive map: ''
+[3/3/2015, 16:12:45] Considering drive: 'C:\'...
+[3/3/2015, 16:12:45] Considering drive: 'D:\'...
+[3/3/2015, 16:12:45] Considering drive: 'E:\'...
+[3/3/2015, 16:12:45] Drive 'E:\' is rejected because of the unknown or unsuitable drive type
+[3/3/2015, 16:12:45] Drive 'D:\' has been selected as the largest fixed drive
+[3/3/2015, 16:12:45] Directory 'D:\caea330f54e55873bdf1c9\' has been selected for file extraction
+[3/3/2015, 16:12:45] Extracting files to: D:\caea330f54e55873bdf1c9\
+[3/3/2015, 16:12:54] Extraction took 8.830 seconds
+[3/3/2015, 16:12:54] Executing command line: 'D:\caea330f54e55873bdf1c9\\Setup.exe  /q /norestart /SkipMSUInstall /chainingpackage NETFX45WURTM /x86 /x64 /redist'
+[3/3/2015, 16:15:54] Exiting with result code: 0x0
+[3/3/2015, 16:15:54] === Logging stopped: 2015/03/03 16:15:54 ===

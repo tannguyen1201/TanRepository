@@ -1,0 +1,47 @@
+2015-03-03 09:01:23.795   Log opened. (Time zone: UTC+07:00)
+2015-03-03 09:01:23.795   Setup version: Inno Setup version 5.5.4 (a)
+2015-03-03 09:01:23.795   Original Setup EXE: C:\Users\phuong\AppData\Local\Temp\is-KPM3F.tmp\Foxit_CloudReading.exe
+2015-03-03 09:01:23.795   Setup command line: /SL5="$40850,2122614,250368,C:\Users\phuong\AppData\Local\Temp\is-KPM3F.tmp\Foxit_CloudReading.exe" /SUPPRESSMSGBOXES /VERYSILENT /LANG=en /norestart
+2015-03-03 09:01:23.811   Windows version: 6.1.7601 SP1  (NT platform: Yes)
+2015-03-03 09:01:23.811   64-bit Windows: Yes
+2015-03-03 09:01:23.811   Processor architecture: x64
+2015-03-03 09:01:23.811   User privileges: Administrative
+2015-03-03 09:01:23.811   64-bit install mode: No
+2015-03-03 09:01:23.813   Created temporary directory: C:\Users\phuong\AppData\Local\Temp\is-1DV84.tmp
+2015-03-03 09:01:23.863   Starting the installation process.
+2015-03-03 09:01:23.863   Creating directory: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud
+2015-03-03 09:01:23.863   Directory for uninstall files: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud
+2015-03-03 09:01:23.863   Creating new uninstall log: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\unins000.dat
+2015-03-03 09:01:23.863   -- File entry --
+2015-03-03 09:01:23.863   Dest filename: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\unins000.exe
+2015-03-03 09:01:23.863   Time stamp of our file: 2015-03-03 09:01:23.747
+2015-03-03 09:01:23.863   Installing the file.
+2015-03-03 09:01:23.863   Uninstaller requires administrator: Yes
+2015-03-03 09:01:23.962   Successfully installed the file.
+2015-03-03 09:01:23.962   -- File entry --
+2015-03-03 09:01:23.962   Dest filename: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\FoxitCloud.fpi
+2015-03-03 09:01:23.962   Time stamp of our file: 2014-11-24 17:53:54.000
+2015-03-03 09:01:23.962   Installing the file.
+2015-03-03 09:01:24.239   Successfully installed the file.
+2015-03-03 09:01:24.239   -- File entry --
+2015-03-03 09:01:24.239   Dest filename: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\FCUpdateService.exe
+2015-03-03 09:01:24.239   Time stamp of our file: 2014-10-28 16:15:34.000
+2015-03-03 09:01:24.239   Installing the file.
+2015-03-03 09:01:24.263   Successfully installed the file.
+2015-03-03 09:01:24.263   -- File entry --
+2015-03-03 09:01:24.263   Dest filename: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\cloud.ico
+2015-03-03 09:01:24.263   Time stamp of our file: 2014-09-11 14:09:00.000
+2015-03-03 09:01:24.263   Installing the file.
+2015-03-03 09:01:24.263   Successfully installed the file.
+2015-03-03 09:01:24.263   -- File entry --
+2015-03-03 09:01:24.263   Dest filename: C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\FoxitCloud.png
+2015-03-03 09:01:24.263   Time stamp of our file: 2014-09-11 14:09:00.000
+2015-03-03 09:01:24.263   Installing the file.
+2015-03-03 09:01:24.263   Successfully installed the file.
+2015-03-03 09:01:24.311   Installation process succeeded.
+2015-03-03 09:01:24.311   Need to restart Windows? No
+2015-03-03 09:01:24.313   InstallService parameters: service:FoxitCloudUpdateService display:Foxit Cloud Safe Update Service file:C:\Program Files (x86)\Foxit Software\Foxit Reader\Foxit Cloud\FCUpdateService.exe
+2015-03-03 09:01:24.478   FoxitCloudUpdateServicecreate success
+2015-03-03 09:01:24.613   FoxitCloudUpdateServiceChangeServiceConfig2 success: Provide service for Foxit Cloud products, once to stop the service, is likely to affect your Foxit Cloud product safety.
+2015-03-03 09:01:24.713   Deinitializing Setup.
+2015-03-03 09:01:24.713   Log closed.
