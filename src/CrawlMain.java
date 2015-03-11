@@ -47,7 +47,7 @@ public class CrawlMain {
                 tvTemp.setDescription(parts.get(3).text());
                 tvTemp.setTitle(parts.get(4).text());
                 tvTemp.setChannel(TYPE);
-                tvTemp.setEnd_date("");
+//                tvTemp.setEnd_date("");
                 tvTemp.setType("");
                 //calendar.insert(tvTemp.toMongoObject());
             }
